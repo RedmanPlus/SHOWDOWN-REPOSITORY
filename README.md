@@ -1,2 +1,2 @@
 # -
-Здесь будут все мои коды
+This repository contains different Python projects that i have made. Each folder is a different project
